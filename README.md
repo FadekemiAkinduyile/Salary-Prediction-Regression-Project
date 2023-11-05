@@ -1,7 +1,9 @@
 # Salary-Prediction-Regression-Project
+
 Data Analysis and Machine Learning Project
 
 **Dataset**
+
 The LinkedIn Job Postings Dataset on Kaggle https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
 **Description:**
