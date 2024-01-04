@@ -12,8 +12,21 @@ The LinkedIn Job Postings dataset, collected over a span of two days, offers a r
 
 **Problem Statement:**
 
-In a world where career choices are significantly influenced by compensation expectations, it has become increasingly important for job seekers, employers, and organizations to have valuable insights into salary expectations to aid in negotiations and informed decision-making processes. 
+In the competitive job landscape, hiring managers are faced with the challenge of making data-driven salary offers to job applicants. To address this challenge, the goal is to develop a machine learning model that accurately estimates an individual's salary based on their experience level and other job-related features such as work type, benefits, and industry. This model will serve as a negotiation support system for hiring managers in the United States, enabling them to make informed decisions regarding an individual's salary.
 
 **Machine Learning Solution:**
 
-The objective of this project is to develop a regression model that predicts a person's salary based on job-related features . This project aims to assist job seekers, employers, and organizations in making informed decisions regarding salary expectations, compensation negotiations, and market trends. This project explores salary trends in different industries.
+The project aims to develop a regression model that predicts a person's salary in the United States. The choice of regression is appropriate for predicting a continuous target variable like salary. The features considered include title, experience level, work type, benefits, and industry. These features are likely to have a significant impact on salary, making them valuable predictors for the model.
+
+**Table of contents:**
+Dataset Review
+Data Cleaning, EDA and Feature Engineering
+Merge, Join, Concatenate with Other csv files
+Exploratory Data Analysis (EDA) - Visualizations and Statistical summaries
+Outlier Detection
+Handling Imbalanced classes
+Data Encoding
+Standardization
+Hyperparameter Tuning and Training of Models
+Feature Importance
+Insights
